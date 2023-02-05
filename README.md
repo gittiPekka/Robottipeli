@@ -1,0 +1,2 @@
+Prerequisites: This little command line application needs only Python. It starts with python3 main.py.
+Description of the project: This is ohjelmoinnin jatkokurssi last exercise. Is only little piece of software but hopefully shows basic programming skills. It can be easily run on any computer. It is a game in which robot moves on squares. Two squares forward and one to side. Any direction. It is operated by mouse. Task is to cover all squares with as few moves as possible.
